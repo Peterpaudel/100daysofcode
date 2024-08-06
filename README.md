@@ -1,5 +1,5 @@
 # 100Daysofcode
-### Welcome to my journey of 100 days of coding I will be starting from python basic to advance
+### Welcome to my journey of 100 days of coding . I will be documenting my journey from zero to advance in python
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/e7ee7319e636cdee1503cfe6611303c2a91d5b28/images/100daysofcode.png)
 | Projects Completed|
 | -------- |
